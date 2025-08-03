@@ -6,7 +6,7 @@ A Python-based project analyzing sales data to extract meaningful insights, such
 
 ## Questions Solved:
 1. **What was the best month for sales?**  
-   **Answer:** December was the best month for sales, with total earnings of over **$4,6 mil.**.
+   **Answer:** December was the best month for sales, with total earnings of over **$4,6 mil**.
 
 ![Best Month for Sales](./SalesAnalysis/plots/output1.png)
 
